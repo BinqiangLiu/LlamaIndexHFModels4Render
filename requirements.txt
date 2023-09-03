@@ -1,12 +1,12 @@
 huggingface_hub
 langchain
-pandas
+#pandas
 PyPDF2
 python-dotenv
 Requests
 sentence_transformers
 streamlit
-streamlit_chat
+#streamlit_chat
 #torch
 llama_index
 tiktoken
